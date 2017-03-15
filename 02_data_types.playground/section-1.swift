@@ -19,6 +19,7 @@ var number2:Int = 2
 // convert string to integer: 문자형을 정수형으로
 
 var tenstr = "33"
+Int(tenstr)
 
 
 var number3 = 5
